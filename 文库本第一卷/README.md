@@ -21,10 +21,13 @@
 
 ---
 
-![1-cover](https://s1.ax1x.com/2020/04/04/GwDmin.jpg)
+![1-cover](https://i.ibb.co/BqVfzg7/cover.jpg)
 
-![1-0](https://s1.ax1x.com/2020/04/04/GwBWb4.jpg)
+![1-0](https://i.ibb.co/BnbZCVL/0.jpg)
 
-![1-1](https://s1.ax1x.com/2020/04/04/GwB62V.jpg)
 
-![1-2](https://raw.githubusercontent.com/joexu01/tsureko-chinese-translation/master/illustration/1/2.jpg)
+
+![1-1](https://i.ibb.co/ys6z4jZ/1.jpg)
+
+![1-2](https://i.ibb.co/n7yz4PZ/2.jpg)
+
