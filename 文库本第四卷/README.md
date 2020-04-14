@@ -2,6 +2,8 @@
 
 ---
 
+尚在翻译中（2020.04.15）
+
 > 转载信息：[轻国原贴](https://www.lightnovel.cn/thread-1022112-1-1.html)
 >
 > 书名：继母的拖油瓶是我的前女友
@@ -30,12 +32,12 @@
 
 ---
 
-❗由于图床限制，请点击图片查看大图（国外的朋友或者挂了梯子的朋友不需要）
+❗正在测试Gitee做图床的可行性，一些插图可能会挂掉，我会及时修复
 
-<a href="https://ibb.co/SBBNmjb"><img src="https://i.ibb.co/WffnzhZ/cover.jpg" alt="cover" border="0"></a>
+![cover](https://gitee.com/tsureko-chinese/tsureko-chinese.github.io/raw/master/illustration/4/cover.jpg)
 
-<a href="https://ibb.co/0tH51s1"><img src="https://i.ibb.co/SrFSHfH/kuchie-001.jpg" alt="kuchie-001" border="0"></a>
+![color-1](https://gitee.com/tsureko-chinese/tsureko-chinese.github.io/raw/master/illustration/4/kuchie-001.jpg)
 
-<a href="https://ibb.co/cT6xBDm"><img src="https://i.ibb.co/MNc9vMX/kuchie-002.jpg" alt="kuchie-002" border="0"></a>
+![color-2](https://gitee.com/tsureko-chinese/tsureko-chinese.github.io/raw/master/illustration/4/kuchie-002.jpg)
 
-<a href="https://ibb.co/ZM2cMkD"><img src="https://i.ibb.co/fxDrxPw/kuchie-003.jpg" alt="kuchie-003" border="0"></a>
+![color-3](https://gitee.com/tsureko-chinese/tsureko-chinese.github.io/raw/master/illustration/4/kuchie-003.jpg)
