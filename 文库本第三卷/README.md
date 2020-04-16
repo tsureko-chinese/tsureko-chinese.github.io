@@ -21,12 +21,12 @@
 
 ---
 
-❗由于图床限制，请点击图片查看大图（国外的朋友或者挂了梯子的朋友不需要）
+❗测试图床，图可能会挂
 
-<a href="https://ibb.co/P5s8hbC"><img src="https://i.ibb.co/MRyLVjN/1.jpg" alt="1" border="0"></a>
+![cover](https://gitee.com/tsureko-chinese/tsureko-chinese.github.io/raw/master/illustration/3/1.jpg)
 
-<a href="https://ibb.co/zbb09vr"><img src="https://i.ibb.co/1KKwyWL/2.jpg" alt="2" border="0"></a>
+<img src="https://gitee.com/tsureko-chinese/tsureko-chinese.github.io/raw/master/illustration/3/2.jpg">
 
-<a href="https://ibb.co/wrWCKK5"><img src="https://i.ibb.co/93T2qqQ/3.jpg" alt="3" border="0"></a>
+<a href="https://ibb.co/wrWCKK5"><img src="https://gitee.com/tsureko-chinese/tsureko-chinese.github.io/raw/master/illustration/3/3.jpg" alt="3" border="0"></a>
 
-<a href="https://ibb.co/wKWRFVV"><img src="https://i.ibb.co/tbs4Tgg/4.jpg" alt="4" border="0"></a>
+<a href="https://ibb.co/wKWRFVV"><img src="https://gitee.com/tsureko-chinese/tsureko-chinese.github.io/raw/master/illustration/3/4.jpg" alt="4" border="0"></a>
