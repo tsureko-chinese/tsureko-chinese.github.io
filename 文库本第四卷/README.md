@@ -32,7 +32,7 @@
 
 ---
 
-❗正在测试Gitee做图床的可行性，一些插图可能会挂掉，我会及时修复
+
 
 ![cover](https://gitee.com/tsureko-chinese/tsureko-chinese.github.io/raw/master/illustration/4/cover.jpg)
 
