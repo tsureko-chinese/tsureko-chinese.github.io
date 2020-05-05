@@ -2,9 +2,9 @@
 
 ---
 
-❗翻译中（2020.04.28）
+❗翻译中 -- [轻国原贴](https://www.lightnovel.cn/thread-1022112-1-1.html)
 
-> 转载信息：[轻国原贴](https://www.lightnovel.cn/thread-1022112-1-1.html)
+> 转载信息：
 >
 > 书名：继母的拖油瓶是我的前女友4 来自初吻的宣战布告
 >
