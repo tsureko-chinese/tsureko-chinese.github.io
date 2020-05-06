@@ -2,7 +2,7 @@
 
 ---
 
-❗翻译中 -- [轻国原贴](https://www.lightnovel.cn/thread-1022112-1-1.html)
+翻译完成 -- [轻国原贴](https://www.lightnovel.cn/thread-1022112-1-1.html)
 
 > 转载信息：
 >
