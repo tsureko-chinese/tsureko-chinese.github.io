@@ -33,6 +33,5 @@
 
 <a href="https://ibb.co/ggS04Kf"><img src="https://gitee.com/tsureko-chinese/tsureko-chinese.github.io/raw/master/illustration/1/1.jpg" alt="1" border="0"></a>
 
-<a href="https://ibb.co/5r3BCKt"><img src="https://i.ibb.co/WkXg7Vq/2.jpg" alt="2" border="0"></a>
+<a href="https://ibb.co/5r3BCKt"><img src="https://gitee.com/tsureko-chinese/tsureko-chinese.github.io/raw/master/illustration/1/2.jpg" alt="2" border="0"></a>
 
-> 注：最后一张插图放在国外图床，点击查看大图
